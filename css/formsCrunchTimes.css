@@ -1,0 +1,9 @@
+* {
+    margin: 1;
+    padding: 1;
+}
+.campo label {
+    margin-bottom: 0.2em;
+    color: #000000;
+    display: block;
+}
